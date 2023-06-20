@@ -1,0 +1,1 @@
+{"loss/current": 0.0005824195686727762, "loss/average": 0.003909890969756932, "lr/textencoder": 0.0, "lr/unet": 0.0, "_timestamp": 1687186263.389741, "_runtime": 4973.94128704071, "_step": 6300, "_wandb": {"runtime": 4968}}
