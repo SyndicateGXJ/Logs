@@ -1,0 +1,380 @@
+﻿[
+    {
+        "\"Step\"": "\"1\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.034868769347667694\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.034868769347667694\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.034868769347667694\""
+    },
+    {
+        "\"Step\"": "\"100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0971753827529028\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0971753827529028\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0971753827529028\""
+    },
+    {
+        "\"Step\"": "\"200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.10757949138991535\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.10757949138991535\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.10757949138991535\""
+    },
+    {
+        "\"Step\"": "\"300\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.10372836229857058\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.10372836229857058\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.10372836229857058\""
+    },
+    {
+        "\"Step\"": "\"400\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.09624166248573197\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.09624166248573197\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.09624166248573197\""
+    },
+    {
+        "\"Step\"": "\"500\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.08584744938841415\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.08584744938841415\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.08584744938841415\""
+    },
+    {
+        "\"Step\"": "\"600\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.083737797179215\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.083737797179215\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.083737797179215\""
+    },
+    {
+        "\"Step\"": "\"700\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.08556100806842247\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.08556100806842247\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.08556100806842247\""
+    },
+    {
+        "\"Step\"": "\"800\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.08659397739296158\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.08659397739296158\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.08659397739296158\""
+    },
+    {
+        "\"Step\"": "\"900\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.08001706262843476\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.08001706262843476\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.08001706262843476\""
+    },
+    {
+        "\"Step\"": "\"1000\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.07510924065367333\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.07510924065367333\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.07510924065367333\""
+    },
+    {
+        "\"Step\"": "\"1100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.07214606932571364\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.07214606932571364\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.07214606932571364\""
+    },
+    {
+        "\"Step\"": "\"1200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.06516660384552937\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.06516660384552937\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.06516660384552937\""
+    },
+    {
+        "\"Step\"": "\"1300\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0594005126750008\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0594005126750008\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0594005126750008\""
+    },
+    {
+        "\"Step\"": "\"1400\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.05472067099892431\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.05472067099892431\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.05472067099892431\""
+    },
+    {
+        "\"Step\"": "\"1500\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.051029336332742654\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.051029336332742654\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.051029336332742654\""
+    },
+    {
+        "\"Step\"": "\"1600\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0468259720479153\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0468259720479153\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0468259720479153\""
+    },
+    {
+        "\"Step\"": "\"1700\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.042435814886693915\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.042435814886693915\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.042435814886693915\""
+    },
+    {
+        "\"Step\"": "\"1800\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.041675441252392906\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.041675441252392906\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.041675441252392906\""
+    },
+    {
+        "\"Step\"": "\"1900\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.03970079962090249\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.03970079962090249\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.03970079962090249\""
+    },
+    {
+        "\"Step\"": "\"2000\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.037098167634879546\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.037098167634879546\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.037098167634879546\""
+    },
+    {
+        "\"Step\"": "\"2100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.03317109566211464\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.03317109566211464\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.03317109566211464\""
+    },
+    {
+        "\"Step\"": "\"2200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.03394899975124096\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.03394899975124096\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.03394899975124096\""
+    },
+    {
+        "\"Step\"": "\"2300\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.03306816977315715\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.03306816977315715\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.03306816977315715\""
+    },
+    {
+        "\"Step\"": "\"2400\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.03630993194759838\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.03630993194759838\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.03630993194759838\""
+    },
+    {
+        "\"Step\"": "\"2500\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.03379600216442394\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.03379600216442394\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.03379600216442394\""
+    },
+    {
+        "\"Step\"": "\"2600\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.033732936902356056\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.033732936902356056\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.033732936902356056\""
+    },
+    {
+        "\"Step\"": "\"2700\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.02990930387602439\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.02990930387602439\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.02990930387602439\""
+    },
+    {
+        "\"Step\"": "\"2800\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.027131245994851703\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.027131245994851703\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.027131245994851703\""
+    },
+    {
+        "\"Step\"": "\"2900\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.025409488671917526\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.025409488671917526\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.025409488671917526\""
+    },
+    {
+        "\"Step\"": "\"3000\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.02220615787535078\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.02220615787535078\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.02220615787535078\""
+    },
+    {
+        "\"Step\"": "\"3100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.02233824782916123\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.02233824782916123\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.02233824782916123\""
+    },
+    {
+        "\"Step\"": "\"3200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.019867674100567542\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.019867674100567542\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.019867674100567542\""
+    },
+    {
+        "\"Step\"": "\"3400\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.01626709809874199\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.01626709809874199\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.01626709809874199\""
+    },
+    {
+        "\"Step\"": "\"3500\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.01422013112783639\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.01422013112783639\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.01422013112783639\""
+    },
+    {
+        "\"Step\"": "\"3600\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.013663394611314057\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.013663394611314057\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.013663394611314057\""
+    },
+    {
+        "\"Step\"": "\"3700\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.014261196370583974\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.014261196370583974\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.014261196370583974\""
+    },
+    {
+        "\"Step\"": "\"3800\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.01578954459382369\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.01578954459382369\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.01578954459382369\""
+    },
+    {
+        "\"Step\"": "\"3900\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.014476884304664083\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.014476884304664083\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.014476884304664083\""
+    },
+    {
+        "\"Step\"": "\"4000\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.013208509873347504\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.013208509873347504\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.013208509873347504\""
+    },
+    {
+        "\"Step\"": "\"4100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.010630038194358348\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.010630038194358348\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.010630038194358348\""
+    },
+    {
+        "\"Step\"": "\"4200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.010105093329819658\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.010105093329819658\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.010105093329819658\""
+    },
+    {
+        "\"Step\"": "\"4300\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.010555288140358965\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.010555288140358965\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.010555288140358965\""
+    },
+    {
+        "\"Step\"": "\"4400\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.011242847167886793\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.011242847167886793\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.011242847167886793\""
+    },
+    {
+        "\"Step\"": "\"4500\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.01091947692468585\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.01091947692468585\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.01091947692468585\""
+    },
+    {
+        "\"Step\"": "\"4600\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.01065301997891982\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.01065301997891982\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.01065301997891982\""
+    },
+    {
+        "\"Step\"": "\"4700\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.01043695643182016\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.01043695643182016\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.01043695643182016\""
+    },
+    {
+        "\"Step\"": "\"4800\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0109350682292614\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0109350682292614\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0109350682292614\""
+    },
+    {
+        "\"Step\"": "\"4900\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.009959499287836638\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.009959499287836638\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.009959499287836638\""
+    },
+    {
+        "\"Step\"": "\"5000\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.00960193253057595\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.00960193253057595\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.00960193253057595\""
+    },
+    {
+        "\"Step\"": "\"5100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.007704355621743681\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.007704355621743681\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.007704355621743681\""
+    },
+    {
+        "\"Step\"": "\"5200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.007796941020633168\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.007796941020633168\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.007796941020633168\""
+    },
+    {
+        "\"Step\"": "\"5300\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0069560302483354\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0069560302483354\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0069560302483354\""
+    },
+    {
+        "\"Step\"": "\"5400\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.007326755426558001\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.007326755426558001\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.007326755426558001\""
+    },
+    {
+        "\"Step\"": "\"5500\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.00605087854820008\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.00605087854820008\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.00605087854820008\""
+    },
+    {
+        "\"Step\"": "\"5600\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.006117798127732905\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.006117798127732905\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.006117798127732905\""
+    },
+    {
+        "\"Step\"": "\"5700\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.007560061409585326\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.007560061409585326\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.007560061409585326\""
+    },
+    {
+        "\"Step\"": "\"5800\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0062090231682218255\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0062090231682218255\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0062090231682218255\""
+    },
+    {
+        "\"Step\"": "\"5900\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.005258953498051842\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.005258953498051842\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.005258953498051842\""
+    },
+    {
+        "\"Step\"": "\"6000\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.004606918505640582\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.004606918505640582\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.004606918505640582\""
+    },
+    {
+        "\"Step\"": "\"6100\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.004324963003570687\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.004324963003570687\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.004324963003570687\""
+    },
+    {
+        "\"Step\"": "\"6200\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.0045153724184880655\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.0045153724184880655\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.0045153724184880655\""
+    },
+    {
+        "\"Step\"": "\"6300\"",
+        "\"fast-microwave-1 - loss/average\"": "\"0.003909890969756932\"",
+        "\"fast-microwave-1 - loss/average__MIN\"": "\"0.003909890969756932\"",
+        "\"fast-microwave-1 - loss/average__MAX\"": "\"0.003909890969756932\""
+    }
+]

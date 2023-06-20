@@ -1,0 +1,386 @@
+﻿[
+    {
+        "Step": "1",
+        "fast-microwave-1 - loss/current": "0.034868769",
+        "fast-microwave-1 - loss/current__MIN": "0.034868769",
+        "fast-microwave-1 - loss/current__MAX": "0.034868769"
+    },
+    {
+        "Step": "100",
+        "fast-microwave-1 - loss/current": "0.127045229",
+        "fast-microwave-1 - loss/current__MIN": "0.127045229",
+        "fast-microwave-1 - loss/current__MAX": "0.127045229"
+    },
+    {
+        "Step": "200",
+        "fast-microwave-1 - loss/current": "0.052332599",
+        "fast-microwave-1 - loss/current__MIN": "0.052332599",
+        "fast-microwave-1 - loss/current__MAX": "0.052332599"
+    },
+    {
+        "Step": "300",
+        "fast-microwave-1 - loss/current": "0.113064252",
+        "fast-microwave-1 - loss/current__MIN": "0.113064252",
+        "fast-microwave-1 - loss/current__MAX": "0.113064252"
+    },
+    {
+        "Step": "400",
+        "fast-microwave-1 - loss/current": "0.023675259",
+        "fast-microwave-1 - loss/current__MIN": "0.023675259",
+        "fast-microwave-1 - loss/current__MAX": "0.023675259"
+    },
+    {
+        "Step": "500",
+        "fast-microwave-1 - loss/current": "0.045680575",
+        "fast-microwave-1 - loss/current__MIN": "0.045680575",
+        "fast-microwave-1 - loss/current__MAX": "0.045680575"
+    },
+    {
+        "Step": "600",
+        "fast-microwave-1 - loss/current": "0.041517396",
+        "fast-microwave-1 - loss/current__MIN": "0.041517396",
+        "fast-microwave-1 - loss/current__MAX": "0.041517396"
+    },
+    {
+        "Step": "700",
+        "fast-microwave-1 - loss/current": "0.005684388",
+        "fast-microwave-1 - loss/current__MIN": "0.005684388",
+        "fast-microwave-1 - loss/current__MAX": "0.005684388"
+    },
+    {
+        "Step": "800",
+        "fast-microwave-1 - loss/current": "0.246748909",
+        "fast-microwave-1 - loss/current__MIN": "0.246748909",
+        "fast-microwave-1 - loss/current__MAX": "0.246748909"
+    },
+    {
+        "Step": "900",
+        "fast-microwave-1 - loss/current": "0.133551493",
+        "fast-microwave-1 - loss/current__MIN": "0.133551493",
+        "fast-microwave-1 - loss/current__MAX": "0.133551493"
+    },
+    {
+        "Step": "1000",
+        "fast-microwave-1 - loss/current": "0.005865378",
+        "fast-microwave-1 - loss/current__MIN": "0.005865378",
+        "fast-microwave-1 - loss/current__MAX": "0.005865378"
+    },
+    {
+        "Step": "1100",
+        "fast-microwave-1 - loss/current": "0.018996879",
+        "fast-microwave-1 - loss/current__MIN": "0.018996879",
+        "fast-microwave-1 - loss/current__MAX": "0.018996879"
+    },
+    {
+        "Step": "1200",
+        "fast-microwave-1 - loss/current": "0.047299549",
+        "fast-microwave-1 - loss/current__MIN": "0.047299549",
+        "fast-microwave-1 - loss/current__MAX": "0.047299549"
+    },
+    {
+        "Step": "1300",
+        "fast-microwave-1 - loss/current": "0.039562646",
+        "fast-microwave-1 - loss/current__MIN": "0.039562646",
+        "fast-microwave-1 - loss/current__MAX": "0.039562646"
+    },
+    {
+        "Step": "1400",
+        "fast-microwave-1 - loss/current": "0.034927689",
+        "fast-microwave-1 - loss/current__MIN": "0.034927689",
+        "fast-microwave-1 - loss/current__MAX": "0.034927689"
+    },
+    {
+        "Step": "1500",
+        "fast-microwave-1 - loss/current": "0.034185447",
+        "fast-microwave-1 - loss/current__MIN": "0.034185447",
+        "fast-microwave-1 - loss/current__MAX": "0.034185447"
+    },
+    {
+        "Step": "1600",
+        "fast-microwave-1 - loss/current": "0.019920751",
+        "fast-microwave-1 - loss/current__MIN": "0.019920751",
+        "fast-microwave-1 - loss/current__MAX": "0.019920751"
+    },
+    {
+        "Step": "1700",
+        "fast-microwave-1 - loss/current": "0.008358315",
+        "fast-microwave-1 - loss/current__MIN": "0.008358315",
+        "fast-microwave-1 - loss/current__MAX": "0.008358315"
+    },
+    {
+        "Step": "1800",
+        "fast-microwave-1 - loss/current": "0.059603721",
+        "fast-microwave-1 - loss/current__MIN": "0.059603721",
+        "fast-microwave-1 - loss/current__MAX": "0.059603721"
+    },
+    {
+        "Step": "1900",
+        "fast-microwave-1 - loss/current": "0.005442496",
+        "fast-microwave-1 - loss/current__MIN": "0.005442496",
+        "fast-microwave-1 - loss/current__MAX": "0.005442496"
+    },
+    {
+        "Step": "2000",
+        "fast-microwave-1 - loss/current": "0.021165941",
+        "fast-microwave-1 - loss/current__MIN": "0.021165941",
+        "fast-microwave-1 - loss/current__MAX": "0.021165941"
+    },
+    {
+        "Step": "2100",
+        "fast-microwave-1 - loss/current": "0.012065871",
+        "fast-microwave-1 - loss/current__MIN": "0.012065871",
+        "fast-microwave-1 - loss/current__MAX": "0.012065871"
+    },
+    {
+        "Step": "2200",
+        "fast-microwave-1 - loss/current": "0.084617935",
+        "fast-microwave-1 - loss/current__MIN": "0.084617935",
+        "fast-microwave-1 - loss/current__MAX": "0.084617935"
+    },
+    {
+        "Step": "2300",
+        "fast-microwave-1 - loss/current": "0.015965946",
+        "fast-microwave-1 - loss/current__MIN": "0.015965946",
+        "fast-microwave-1 - loss/current__MAX": "0.015965946"
+    },
+    {
+        "Step": "2400",
+        "fast-microwave-1 - loss/current": "0.039929062",
+        "fast-microwave-1 - loss/current__MIN": "0.039929062",
+        "fast-microwave-1 - loss/current__MAX": "0.039929062"
+    },
+    {
+        "Step": "2500",
+        "fast-microwave-1 - loss/current": "0.040849216",
+        "fast-microwave-1 - loss/current__MIN": "0.040849216",
+        "fast-microwave-1 - loss/current__MAX": "0.040849216"
+    },
+    {
+        "Step": "2600",
+        "fast-microwave-1 - loss/current": "0.003697511",
+        "fast-microwave-1 - loss/current__MIN": "0.003697511",
+        "fast-microwave-1 - loss/current__MAX": "0.003697511"
+    },
+    {
+        "Step": "2700",
+        "fast-microwave-1 - loss/current": "0.007860538",
+        "fast-microwave-1 - loss/current__MIN": "0.007860538",
+        "fast-microwave-1 - loss/current__MAX": "0.007860538"
+    },
+    {
+        "Step": "2800",
+        "fast-microwave-1 - loss/current": "0.004615282",
+        "fast-microwave-1 - loss/current__MIN": "0.004615282",
+        "fast-microwave-1 - loss/current__MAX": "0.004615282"
+    },
+    {
+        "Step": "2900",
+        "fast-microwave-1 - loss/current": "0.019628217",
+        "fast-microwave-1 - loss/current__MIN": "0.019628217",
+        "fast-microwave-1 - loss/current__MAX": "0.019628217"
+    },
+    {
+        "Step": "3000",
+        "fast-microwave-1 - loss/current": "0.002603779",
+        "fast-microwave-1 - loss/current__MIN": "0.002603779",
+        "fast-microwave-1 - loss/current__MAX": "0.002603779"
+    },
+    {
+        "Step": "3100",
+        "fast-microwave-1 - loss/current": "0.014097728",
+        "fast-microwave-1 - loss/current__MIN": "0.014097728",
+        "fast-microwave-1 - loss/current__MAX": "0.014097728"
+    },
+    {
+        "Step": "3200",
+        "fast-microwave-1 - loss/current": "0.028501354",
+        "fast-microwave-1 - loss/current__MIN": "0.028501354",
+        "fast-microwave-1 - loss/current__MAX": "0.028501354"
+    },
+    {
+        "Step": "3300",
+        "fast-microwave-1 - loss/current": "0.003842887",
+        "fast-microwave-1 - loss/current__MIN": "0.003842887",
+        "fast-microwave-1 - loss/current__MAX": "0.003842887"
+    },
+    {
+        "Step": "3400",
+        "fast-microwave-1 - loss/current": "0.04864281",
+        "fast-microwave-1 - loss/current__MIN": "0.04864281",
+        "fast-microwave-1 - loss/current__MAX": "0.04864281"
+    },
+    {
+        "Step": "3500",
+        "fast-microwave-1 - loss/current": "0.020953353",
+        "fast-microwave-1 - loss/current__MIN": "0.020953353",
+        "fast-microwave-1 - loss/current__MAX": "0.020953353"
+    },
+    {
+        "Step": "3600",
+        "fast-microwave-1 - loss/current": "0.00885203",
+        "fast-microwave-1 - loss/current__MIN": "0.00885203",
+        "fast-microwave-1 - loss/current__MAX": "0.00885203"
+    },
+    {
+        "Step": "3700",
+        "fast-microwave-1 - loss/current": "0.002158949",
+        "fast-microwave-1 - loss/current__MIN": "0.002158949",
+        "fast-microwave-1 - loss/current__MAX": "0.002158949"
+    },
+    {
+        "Step": "3800",
+        "fast-microwave-1 - loss/current": "0.010276848",
+        "fast-microwave-1 - loss/current__MIN": "0.010276848",
+        "fast-microwave-1 - loss/current__MAX": "0.010276848"
+    },
+    {
+        "Step": "3900",
+        "fast-microwave-1 - loss/current": "0.025932398",
+        "fast-microwave-1 - loss/current__MIN": "0.025932398",
+        "fast-microwave-1 - loss/current__MAX": "0.025932398"
+    },
+    {
+        "Step": "4000",
+        "fast-microwave-1 - loss/current": "0.002225278",
+        "fast-microwave-1 - loss/current__MIN": "0.002225278",
+        "fast-microwave-1 - loss/current__MAX": "0.002225278"
+    },
+    {
+        "Step": "4100",
+        "fast-microwave-1 - loss/current": "0.004457586",
+        "fast-microwave-1 - loss/current__MIN": "0.004457586",
+        "fast-microwave-1 - loss/current__MAX": "0.004457586"
+    },
+    {
+        "Step": "4200",
+        "fast-microwave-1 - loss/current": "0.006355411",
+        "fast-microwave-1 - loss/current__MIN": "0.006355411",
+        "fast-microwave-1 - loss/current__MAX": "0.006355411"
+    },
+    {
+        "Step": "4300",
+        "fast-microwave-1 - loss/current": "0.005578291",
+        "fast-microwave-1 - loss/current__MIN": "0.005578291",
+        "fast-microwave-1 - loss/current__MAX": "0.005578291"
+    },
+    {
+        "Step": "4400",
+        "fast-microwave-1 - loss/current": "0.009793344",
+        "fast-microwave-1 - loss/current__MIN": "0.009793344",
+        "fast-microwave-1 - loss/current__MAX": "0.009793344"
+    },
+    {
+        "Step": "4500",
+        "fast-microwave-1 - loss/current": "0.00322846",
+        "fast-microwave-1 - loss/current__MIN": "0.00322846",
+        "fast-microwave-1 - loss/current__MAX": "0.00322846"
+    },
+    {
+        "Step": "4600",
+        "fast-microwave-1 - loss/current": "0.004014367",
+        "fast-microwave-1 - loss/current__MIN": "0.004014367",
+        "fast-microwave-1 - loss/current__MAX": "0.004014367"
+    },
+    {
+        "Step": "4700",
+        "fast-microwave-1 - loss/current": "0.006937232",
+        "fast-microwave-1 - loss/current__MIN": "0.006937232",
+        "fast-microwave-1 - loss/current__MAX": "0.006937232"
+    },
+    {
+        "Step": "4800",
+        "fast-microwave-1 - loss/current": "0.001288978",
+        "fast-microwave-1 - loss/current__MIN": "0.001288978",
+        "fast-microwave-1 - loss/current__MAX": "0.001288978"
+    },
+    {
+        "Step": "4900",
+        "fast-microwave-1 - loss/current": "0.000559077",
+        "fast-microwave-1 - loss/current__MIN": "0.000559077",
+        "fast-microwave-1 - loss/current__MAX": "0.000559077"
+    },
+    {
+        "Step": "5000",
+        "fast-microwave-1 - loss/current": "0.003090438",
+        "fast-microwave-1 - loss/current__MIN": "0.003090438",
+        "fast-microwave-1 - loss/current__MAX": "0.003090438"
+    },
+    {
+        "Step": "5100",
+        "fast-microwave-1 - loss/current": "0.00236056",
+        "fast-microwave-1 - loss/current__MIN": "0.00236056",
+        "fast-microwave-1 - loss/current__MAX": "0.00236056"
+    },
+    {
+        "Step": "5200",
+        "fast-microwave-1 - loss/current": "0.001148195",
+        "fast-microwave-1 - loss/current__MIN": "0.001148195",
+        "fast-microwave-1 - loss/current__MAX": "0.001148195"
+    },
+    {
+        "Step": "5300",
+        "fast-microwave-1 - loss/current": "0.002528495",
+        "fast-microwave-1 - loss/current__MIN": "0.002528495",
+        "fast-microwave-1 - loss/current__MAX": "0.002528495"
+    },
+    {
+        "Step": "5400",
+        "fast-microwave-1 - loss/current": "0.000361366",
+        "fast-microwave-1 - loss/current__MIN": "0.000361366",
+        "fast-microwave-1 - loss/current__MAX": "0.000361366"
+    },
+    {
+        "Step": "5500",
+        "fast-microwave-1 - loss/current": "0.000738535",
+        "fast-microwave-1 - loss/current__MIN": "0.000738535",
+        "fast-microwave-1 - loss/current__MAX": "0.000738535"
+    },
+    {
+        "Step": "5600",
+        "fast-microwave-1 - loss/current": "0.001202008",
+        "fast-microwave-1 - loss/current__MIN": "0.001202008",
+        "fast-microwave-1 - loss/current__MAX": "0.001202008"
+    },
+    {
+        "Step": "5700",
+        "fast-microwave-1 - loss/current": "0.001225969",
+        "fast-microwave-1 - loss/current__MIN": "0.001225969",
+        "fast-microwave-1 - loss/current__MAX": "0.001225969"
+    },
+    {
+        "Step": "5800",
+        "fast-microwave-1 - loss/current": "0.000676514",
+        "fast-microwave-1 - loss/current__MIN": "0.000676514",
+        "fast-microwave-1 - loss/current__MAX": "0.000676514"
+    },
+    {
+        "Step": "5900",
+        "fast-microwave-1 - loss/current": "0.005068034",
+        "fast-microwave-1 - loss/current__MIN": "0.005068034",
+        "fast-microwave-1 - loss/current__MAX": "0.005068034"
+    },
+    {
+        "Step": "6000",
+        "fast-microwave-1 - loss/current": "0.005797897",
+        "fast-microwave-1 - loss/current__MIN": "0.005797897",
+        "fast-microwave-1 - loss/current__MAX": "0.005797897"
+    },
+    {
+        "Step": "6100",
+        "fast-microwave-1 - loss/current": "0.006500749",
+        "fast-microwave-1 - loss/current__MIN": "0.006500749",
+        "fast-microwave-1 - loss/current__MAX": "0.006500749"
+    },
+    {
+        "Step": "6200",
+        "fast-microwave-1 - loss/current": "0.000902967",
+        "fast-microwave-1 - loss/current__MIN": "0.000902967",
+        "fast-microwave-1 - loss/current__MAX": "0.000902967"
+    },
+    {
+        "Step": "6300",
+        "fast-microwave-1 - loss/current": "0.00058242",
+        "fast-microwave-1 - loss/current__MIN": "0.00058242",
+        "fast-microwave-1 - loss/current__MAX": "0.00058242"
+    }
+]
